@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Billing-SoftwareProject/BS-FB/static/css/main.4a7d218e.css",
+    "main.js": "/Billing-SoftwareProject/BS-FB/static/js/main.7b536c58.js",
+    "static/js/787.c1112931.chunk.js": "/Billing-SoftwareProject/BS-FB/static/js/787.c1112931.chunk.js",
+    "static/media/qr.jpg": "/Billing-SoftwareProject/BS-FB/static/media/qr.be3ea17769c811d32e61.jpg",
+    "static/media/phonepay.jpg": "/Billing-SoftwareProject/BS-FB/static/media/phonepay.344109c3f026d819be8c.jpg",
+    "static/media/paytm.jpg": "/Billing-SoftwareProject/BS-FB/static/media/paytm.c5a669f99b1682181e47.jpg",
+    "static/media/cash.jpg": "/Billing-SoftwareProject/BS-FB/static/media/cash.d95598ac791dc130e7f9.jpg",
+    "static/media/default-2.jpg": "/Billing-SoftwareProject/BS-FB/static/media/default-2.758077198af06addbda0.jpg",
+    "static/media/google.jpg": "/Billing-SoftwareProject/BS-FB/static/media/google.d601fcc1f14ec5730e86.jpg",
+    "index.html": "/Billing-SoftwareProject/BS-FB/index.html",
+    "main.4a7d218e.css.map": "/Billing-SoftwareProject/BS-FB/static/css/main.4a7d218e.css.map",
+    "main.7b536c58.js.map": "/Billing-SoftwareProject/BS-FB/static/js/main.7b536c58.js.map",
+    "787.c1112931.chunk.js.map": "/Billing-SoftwareProject/BS-FB/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a7d218e.css",
+    "static/js/main.7b536c58.js"
+  ]
+}
